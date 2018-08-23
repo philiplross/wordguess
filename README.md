@@ -1,2 +1,1 @@
-# wordguess
-Homework for java script 3
+# Word-Guess
