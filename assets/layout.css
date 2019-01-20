@@ -1,0 +1,26 @@
+.gradient {
+    background-image:
+      radial-gradient(
+        rgb(111, 255, 67),
+        #39ebd3a9
+      );
+  }
+
+  /* div {
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+  }
+  
+  div::after {
+    content: "";
+    background: url(image.jpg);
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  } */
